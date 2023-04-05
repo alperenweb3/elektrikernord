@@ -4,7 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 import 'bootstrap/dist/js/bootstrap.min.js';
 // internal
 import ScrollTop from "./components/common/ScrollTop";
-import "./index.css";
+import "./index.scss";
 import App from "./App";
 
 

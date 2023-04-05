@@ -1,0 +1,42 @@
+{
+    "faq":[
+        {
+            "id":1,
+            "show":true,
+            "question": "Lorem ipsum dolor sit amet consectetur?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }, {
+            "id":2,
+            "question": "Adipiscing elit, sed do eiusmod tempor?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }, {
+            "id":3,
+            "question": "Quis nostrud exercitation ullamco?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }, {
+            "id":4,
+            "question": "Incididunt ut labore et dolore?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }, {
+            "id":5,
+            "question": "Quis nostrud exercitation ullamco?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }, {
+            "id":6,
+            "question": "Adipiscing elit, sed do eiusmod tempor?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }, {
+            "id":7,
+            "question": "Quis nostrud exercitation ullamco?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }, {
+            "id":8,
+            "question": "Orem ipsum dolor sit amet consectetur?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }, {
+            "id":9,
+            "question": "Quis nostrud exercitation ullamco?",
+            "ans": "Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product, you should determine where your inventory will be held.Research helps you plan the best way to get your product from the manufacturer to the retail shelf. In addition to deciding which retailers should carry your product"
+        }
+    ]
+}

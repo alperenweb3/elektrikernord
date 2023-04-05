@@ -1,0 +1,47 @@
+{
+    "brands" : [
+        {
+            "id": 1,
+            "img": "../assets/img/clinet/client-1.jpg"
+        } ,      
+        {
+            "id": 2,
+            "img": "../assets/img/clinet/client-2.png"
+        } ,      
+        
+        {
+            "id": 3,
+            "img": "../assets/img/clinet/client-3.png"
+        } ,      
+        {
+            "id": 4,
+            "img": "../assets/img/clinet/client-4.png"
+        } ,      
+        {
+            "id": 5,
+            "img": "../assets/img/clinet/clinet-5.png"
+        } ,      
+         {
+            "id": 6,
+            "img": "../assets/img/clinet/client-1.jpg"
+        } ,      
+        {
+            "id": 7,
+            "img": "../assets/img/clinet/client-2.png"
+        } ,      
+        
+        {
+            "id": 8,
+            "img": "../assets/img/clinet/client-3.png"
+        } ,      
+        {
+            "id": 9,
+            "img": "../assets/img/clinet/client-4.png"
+        } ,      
+        {
+            "id": 10,
+            "img": "../assets/img/clinet/clinet-5.png"
+        }     
+        
+    ]
+}

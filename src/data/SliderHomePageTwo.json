@@ -1,0 +1,13 @@
+{
+    "slider2":[
+        {
+            "id": 1, "img": "assets/img/bg/hero-bg-3.jpg"
+        },
+        {
+            "id": 2, "img": "assets/img/bg/hero-bg-2.1.jpg"
+        },
+        {
+            "id": 3, "img": "assets/img/bg/hero-bg-3.2.jpg"
+        }
+    ]
+}

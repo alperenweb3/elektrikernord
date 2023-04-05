@@ -1,8 +1,10 @@
 import React from "react";
+import Menu from "../common/Menu/Menu";
+
 const Home = () => {
   return (
     <>
-      <h1>Hello Home</h1>
+      <Menu header_style_2={true} />
     </>
   );
 };

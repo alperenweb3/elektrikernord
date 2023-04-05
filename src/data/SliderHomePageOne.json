@@ -1,0 +1,31 @@
+{
+    "slider":[
+        {
+            "id": 1,
+            "title": "Make your new business plan a success!",
+            "subTitle1": "Make your",
+            "subTitle2": "Business Boom",
+            "btnText": "Get in touch",
+            "bgImg": "/assets/img/bg/hero-bg-1.2.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "Make your new business plan a success!",
+            "subTitle1": "Make your",
+            "subTitle2": "Business Boom",
+            "btnText": "Get in touch",
+            "bgImg": "/assets/img/bg/hero-bg.jpg"
+
+        },
+        {
+            "id": 3,
+            "title": "Make your new business plan a success!",
+            "subTitle1": "Make your",
+            "subTitle2": "Business Boom",
+            "btnText": "Get in touch",
+            "bgImg": "/assets/img/bg/hero-bg-1.jpg"
+
+        }
+    ]
+}

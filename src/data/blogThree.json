@@ -1,0 +1,46 @@
+{
+    "blog3": [
+        {
+            "id": 1,
+            "img": "assets/img/blog/blog-5.jpg",
+            "overly": "Business",
+            "name": "Business",
+            "time": "23.06.2023",
+            "title" : " How To Develop Your Business’ Technology Roadmap"
+        },
+ {
+            "id": 2,
+            "img": "assets/img/blog/blog-6.jpg",
+            "overly": "Business",
+            "name": "Business",
+            "time": "23.06.2023",
+            "title" : " How To Develop Your Business’ Technology Roadmap"
+        },
+        {
+            "id": 3,
+            "img": "assets/img/blog/blog-7.jpg",
+            "overly": "Business",
+            "name": "Business",
+            "time": "23.06.2023",
+            "title" : " How To Develop Your Business’ Technology Roadmap"
+        },
+        {
+            "id": 4,
+            "img": "assets/img/blog/blog-8.jpg",
+            "overly": "Business",
+            "name": "Business",
+            "time": "23.06.2023",
+            "title" : " How To Develop Your Business’ Technology Roadmap"
+        },
+        {
+            "id": 5,
+            "img": "assets/img/blog/blog-6.jpg",
+            "overly": "Business",
+            "name": "Business",
+            "time": "23.06.2023",
+            "title" : " How To Develop Your Business’ Technology Roadmap"
+        }
+
+
+    ]
+}

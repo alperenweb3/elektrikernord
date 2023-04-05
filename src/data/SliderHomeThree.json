@@ -1,0 +1,26 @@
+{
+    "SliderHomeThree":[
+        {
+            "id": 1,
+            "img": "/assets/img/bg/hero-bg-3.jpg",
+            "description": "Step in the right description...",
+            "title1": "World class team",
+            "title2": " build for you"
+        },
+        {
+            "id": 2,
+            "img": "/assets/img/bg/hero-bg-3.1.jpg",
+            "description": "Step in the right description...",
+            "title1": "World class team",
+            "title2": " build for you"
+        },
+        {
+            "id": 3,
+            "img": "/assets/img/bg/hero-bg-3.2.jpg",
+            "description": "Step in the right description...",
+            "title1": "World class team",
+            "title2": " build for you"
+        }
+
+    ]
+}

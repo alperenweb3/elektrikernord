@@ -1,0 +1,37 @@
+{
+    "testimonialData":[
+        {
+            "id": 1,
+            "title": "What our Client say",
+            "text1" : " Vulputate mi sit amet mauris commodo quis imperdiet.",
+            "text2" : "Metus vulputate eu felis imperdiet proin nulla aliquet",
+            "text3": "enim. Vulputate mi sit amet mauris",
+            "reviewer": "Rasalina Willamson",
+            "design" : "(ui/ux Designer)",
+            "img" : "/assets/img/bg/testimonial.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "What our Client say",
+            "text1" : " Vulputate mi sit amet mauris commodo quis imperdiet.",
+            "text2" : "Metus vulputate eu felis imperdiet proin nulla aliquet",
+            "text3": "enim. Vulputate mi sit amet mauris",
+            "reviewer": "Rasalina Willamson",
+            "design" : "(ui/ux Designer)",
+            "img" : "/assets/img/bg/testimonial.jpg"
+
+
+        },
+        {
+            "id": 3,
+            "title": "What our Client say",
+            "text1" : " Vulputate mi sit amet mauris commodo quis imperdiet.",
+            "text2" : "Metus vulputate eu felis imperdiet proin nulla aliquet",
+            "text3": "enim. Vulputate mi sit amet mauris",
+            "reviewer": "Rasalina Willamson",
+            "design" : "(ui/ux Designer)",
+            "img" : "/assets/img/bg/testimonial.jpg"
+        }
+    ]
+}

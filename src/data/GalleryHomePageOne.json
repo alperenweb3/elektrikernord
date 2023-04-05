@@ -1,0 +1,28 @@
+{
+    "gallery":[
+        {
+            "id": 1,
+            "img": "/assets/img/gallery/gallery-1.jpg"
+        }, 
+        {
+            "id": 2,
+            "img": "/assets/img/gallery/gallery-2.jpg"
+        }, 
+        {
+            "id": 3,
+            "img": "/assets/img/gallery/gallery-3.jpg"
+        }, 
+        {
+            "id": 4,
+            "img": "/assets/img/gallery/gl-4.jpg"
+        }, 
+        {
+            "id": 5,
+            "img": "/assets/img/gallery/gl-5.jpg"
+        }, 
+        {
+            "id": 6,
+            "img": "/assets/img/gallery/gl-6.jpg"
+        }
+    ]
+}
