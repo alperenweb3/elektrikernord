@@ -41,7 +41,8 @@ const HomeSlider = () => {
                       </h3>
 
                       <Link
-                        to="/"
+                        to="mailto:elektrikerari@gmail.com"
+                        target="_blank"
                         className="tp-slider-btn mt-40 d-inline-block"
                       >
                         <span>
