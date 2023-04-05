@@ -15,12 +15,7 @@ const WhoWeAre = () => {
                 </div>
                 <h3 className="tp-ab-title mb-35">The Unlimited innovation</h3>
                 <p>
-                  Tellus rutrum tellus pellentesque eu. Sagittis purus sit amet
-                  volutpat. Sed ullamcorper tellus rutrum tellus pellentesque
-                  eu. Sagittis purus sit amet volutpat. Sed ullamcorper
-                  retherlly.Tellus rutrum tellus pellentesque eu. Sagittis purus
-                  sit amet volutpat. retherlly.Tellus rutrum tellus pellentesque
-                  eu.
+                Switch to a sustainable future with our solar power generation sets. Our photovoltaic technology converts sunlight into clean, renewable energy for your home or business, reducing your carbon footprint and energy bills. Contact us today to learn more about going solar.
                 </p>
                 <div>
                   <Link to="#" className="tp-btn">

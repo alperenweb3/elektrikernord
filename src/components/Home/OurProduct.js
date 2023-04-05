@@ -20,7 +20,7 @@ const OurProduct = () => {
               <div className="tp-ab-text pt-130 pl-150 p-relative">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-30">
-                    Solar Energy is our business
+                    We transform solar energy
                   </span>
                   <h2 className="tp-section-title text-white">
                     We design a mobile energy source for every environment
@@ -37,7 +37,7 @@ const OurProduct = () => {
                         <span>
                           <i className="fal fa-check"></i>
                         </span>
-                        Opening the panels is used
+                        Opening panels is used
                       </li>
                     <li>
                         <span>
