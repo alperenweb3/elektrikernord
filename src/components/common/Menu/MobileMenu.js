@@ -1,5 +1,7 @@
 import React from "react";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
+import { HashLink as Link } from 'react-router-hash-link';
+
 
 const MobileMenu = () => {
   return (
@@ -9,7 +11,7 @@ const MobileMenu = () => {
           <nav id="mobile-menu mobile-menu-area">
             <ul>
               <li>
-                <Link to="/">Home</Link>
+                <Link to="#">Home</Link>
               </li>
               <li>
                 <Link to="#who-we-are">Who We Are</Link>
