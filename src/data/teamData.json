@@ -3,34 +3,10 @@
       "id": 1,
       "img": "/assets/img/team/Gokhan_Ari.jpg",
       "name": "Gökhan ARI",
-      "title": "Design & Management",
+      "title": "Electronics Technician",
       "social_links": [
         {
-          "link": "http://facebook.com",
-          "target": "_blank",
-          "icon": "fab fa-facebook-f",
-          "name": "Facebook"
-        },
-        {
-          "link": "http://twitter.com",
-          "target": "_blank",
-          "icon": "fab fa-twitter",
-          "name": "Twitter"
-        },
-        {
-          "link": "https://www.instagram.com/",
-          "target": "_blank",
-          "icon": "fab fa-instagram",
-          "name": "Instagram"
-        },
-        {
-          "link": "https://www.youtube.com/",
-          "target": "_blank",
-          "icon": "fab fa-youtube",
-          "name": "Youtube"
-        },
-        {
-          "link": "https://www.linkedin.com/en/",
+          "link": "https://www.linkedin.com/in/g%C3%B6khan-ari-07951ab2/",
           "target": "_blank",
           "icon": "fab fa-linkedin",
           "name": "Linkedin"
@@ -44,31 +20,7 @@
       "title": "Electr. Electronics Eng.",
       "social_links": [
         {
-          "link": "http://facebook.com",
-          "target": "_blank",
-          "icon": "fab fa-facebook-f",
-          "name": "Facebook"
-        },
-        {
-          "link": "http://twitter.com",
-          "target": "_blank",
-          "icon": "fab fa-twitter",
-          "name": "Twitter"
-        },
-        {
-          "link": "https://www.instagram.com/",
-          "target": "_blank",
-          "icon": "fab fa-instagram",
-          "name": "Instagram"
-        },
-        {
-          "link": "https://www.youtube.com/",
-          "target": "_blank",
-          "icon": "fab fa-youtube",
-          "name": "Youtube"
-        },
-        {
-          "link": "https://www.linkedin.com/en/",
+          "link": "#",
           "target": "_blank",
           "icon": "fab fa-linkedin",
           "name": "Linkedin"
@@ -82,31 +34,7 @@
       "title": "Development",
       "social_links": [
         {
-          "link": "http://facebook.com",
-          "target": "_blank",
-          "icon": "fab fa-facebook-f",
-          "name": "Facebook"
-        },
-        {
-          "link": "http://twitter.com",
-          "target": "_blank",
-          "icon": "fab fa-twitter",
-          "name": "Twitter"
-        },
-        {
-          "link": "https://www.instagram.com/",
-          "target": "_blank",
-          "icon": "fab fa-instagram",
-          "name": "Instagram"
-        },
-        {
-          "link": "https://www.youtube.com/",
-          "target": "_blank",
-          "icon": "fab fa-youtube",
-          "name": "Youtube"
-        },
-        {
-          "link": "https://www.linkedin.com/en/",
+          "link": "#",
           "target": "_blank",
           "icon": "fab fa-linkedin",
           "name": "Linkedin"
