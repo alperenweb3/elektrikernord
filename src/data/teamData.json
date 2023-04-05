@@ -2,8 +2,8 @@
     {
       "id": 1,
       "img": "/assets/img/team/team-1.jpg",
-      "name": "Cameron Williamson",
-      "title": "HR MANAGER",
+      "name": "Gökhan ARI",
+      "title": "Design & Management",
       "social_links": [
         {
           "link": "http://facebook.com",
@@ -40,8 +40,8 @@
     {
       "id": 2,
       "img": "assets/img/team/team-2.jpg",
-      "name": "Leslie Alexander",
-      "title": "CHIEF EXECUTIVE",
+      "name": "Ali ÜNLÜIRMAK",
+      "title": "Electr. Electronics Eng.",
       "social_links": [
         {
           "link": "http://facebook.com",
@@ -78,198 +78,8 @@
     {
       "id": 3,
       "img": "assets/img/team/team-3.jpg",
-      "name": "Guy Hawkins",
-      "title": "HR SENIOR EXECUTIVE",
-      "social_links": [
-        {
-          "link": "http://facebook.com",
-          "target": "_blank",
-          "icon": "fab fa-facebook-f",
-          "name": "Facebook"
-        },
-        {
-          "link": "http://twitter.com",
-          "target": "_blank",
-          "icon": "fab fa-twitter",
-          "name": "Twitter"
-        },
-        {
-          "link": "https://www.instagram.com/",
-          "target": "_blank",
-          "icon": "fab fa-instagram",
-          "name": "Instagram"
-        },
-        {
-          "link": "https://www.youtube.com/",
-          "target": "_blank",
-          "icon": "fab fa-youtube",
-          "name": "Youtube"
-        },
-        {
-          "link": "https://www.linkedin.com/en/",
-          "target": "_blank",
-          "icon": "fab fa-linkedin",
-          "name": "Linkedin"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "img": "assets/img/team/team-4.jpg",
-      "name": " Savannah Nguyen",
-      "title": "HR PROFESSIONAL",
-      "social_links": [
-        {
-          "link": "http://facebook.com",
-          "target": "_blank",
-          "icon": "fab fa-facebook-f",
-          "name": "Facebook"
-        },
-        {
-          "link": "http://twitter.com",
-          "target": "_blank",
-          "icon": "fab fa-twitter",
-          "name": "Twitter"
-        },
-        {
-          "link": "https://www.instagram.com/",
-          "target": "_blank",
-          "icon": "fab fa-instagram",
-          "name": "Instagram"
-        },
-        {
-          "link": "https://www.youtube.com/",
-          "target": "_blank",
-          "icon": "fab fa-youtube",
-          "name": "Youtube"
-        },
-        {
-          "link": "https://www.linkedin.com/en/",
-          "target": "_blank",
-          "icon": "fab fa-linkedin",
-          "name": "Linkedin"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "img": "assets/img/team/team-5.jpg",
-      "name": " Savannah Nguyen",
-      "title": "HR PROFESSIONAL",
-      "social_links": [
-        {
-          "link": "http://facebook.com",
-          "target": "_blank",
-          "icon": "fab fa-facebook-f",
-          "name": "Facebook"
-        },
-        {
-          "link": "http://twitter.com",
-          "target": "_blank",
-          "icon": "fab fa-twitter",
-          "name": "Twitter"
-        },
-        {
-          "link": "https://www.instagram.com/",
-          "target": "_blank",
-          "icon": "fab fa-instagram",
-          "name": "Instagram"
-        },
-        {
-          "link": "https://www.youtube.com/",
-          "target": "_blank",
-          "icon": "fab fa-youtube",
-          "name": "Youtube"
-        },
-        {
-          "link": "https://www.linkedin.com/en/",
-          "target": "_blank",
-          "icon": "fab fa-linkedin",
-          "name": "Linkedin"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "img": "assets/img/team/team-6.jpg",
-      "name": " Savannah Nguyen",
-      "title": "HR PROFESSIONAL",
-      "social_links": [
-        {
-          "link": "http://facebook.com",
-          "target": "_blank",
-          "icon": "fab fa-facebook-f",
-          "name": "Facebook"
-        },
-        {
-          "link": "http://twitter.com",
-          "target": "_blank",
-          "icon": "fab fa-twitter",
-          "name": "Twitter"
-        },
-        {
-          "link": "https://www.instagram.com/",
-          "target": "_blank",
-          "icon": "fab fa-instagram",
-          "name": "Instagram"
-        },
-        {
-          "link": "https://www.youtube.com/",
-          "target": "_blank",
-          "icon": "fab fa-youtube",
-          "name": "Youtube"
-        },
-        {
-          "link": "https://www.linkedin.com/en/",
-          "target": "_blank",
-          "icon": "fab fa-linkedin",
-          "name": "Linkedin"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "img": "assets/img/team/team-7.jpg",
-      "name": " Savannah Nguyen",
-      "title": "HR PROFESSIONAL",
-      "social_links": [
-        {
-          "link": "http://facebook.com",
-          "target": "_blank",
-          "icon": "fab fa-facebook-f",
-          "name": "Facebook"
-        },
-        {
-          "link": "http://twitter.com",
-          "target": "_blank",
-          "icon": "fab fa-twitter",
-          "name": "Twitter"
-        },
-        {
-          "link": "https://www.instagram.com/",
-          "target": "_blank",
-          "icon": "fab fa-instagram",
-          "name": "Instagram"
-        },
-        {
-          "link": "https://www.youtube.com/",
-          "target": "_blank",
-          "icon": "fab fa-youtube",
-          "name": "Youtube"
-        },
-        {
-          "link": "https://www.linkedin.com/en/",
-          "target": "_blank",
-          "icon": "fab fa-linkedin",
-          "name": "Linkedin"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "img": "assets/img/team/team-8.jpg",
-      "name": " Savannah Nguyen",
-      "title": "HR PROFESSIONAL",
+      "name": "Levent OCAK",
+      "title": "Development",
       "social_links": [
         {
           "link": "http://facebook.com",

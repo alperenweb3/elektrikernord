@@ -8,10 +8,10 @@ const WhoWeAre = () => {
       <div className="tp-ab-section pt-160 pb-160">
         <div className="container">
           <div className="row align-items-center tp-flex-reverse">
-            <div className="col-lg-6">
+            <div className="col-lg-4">
               <div className="tp-ab-info pr-40">
                 <div className="tp-ab-subtitle mb-10">
-                  <span>Move your business into success</span>
+                  <span>Solar Power Generation Set</span>
                 </div>
                 <h3 className="tp-ab-title mb-35">The Unlimited innovation</h3>
                 <p>
@@ -23,7 +23,7 @@ const WhoWeAre = () => {
                   eu.
                 </p>
                 <div>
-                  <Link to="/service" className="tp-btn">
+                  <Link to="#" className="tp-btn">
                     All Service
                     <span>
                       <svg
@@ -55,9 +55,9 @@ const WhoWeAre = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6">
+            <div className="col-lg-8">
               <div className="tp-ab-img text-md-end w-img">
-                <img src="assets/img/about/about-2.png" alt="" />
+                <img src="/assets/img/service/hh-ARCI-home-1030x727.jpg" alt="" />
               </div>
             </div>
           </div>

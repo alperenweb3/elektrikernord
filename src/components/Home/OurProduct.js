@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import VideoPopup from "../common/Modals/VideoPopup";
 
-const ServiceAbout = () => {
+const OurProduct = () => {
   const [isVideoOpen,setIsVideoOpen] = useState(false);
   return (
     <>
@@ -11,7 +11,7 @@ const ServiceAbout = () => {
           className="tp-ab-bg d-none d-lg-block"
           //   data-background="assets/img/service/service-bg.jpg"
           style={{
-            backgroundImage: `url("assets/img/service/service-bg.jpg")`,
+            backgroundImage: `url("assets/img/bg/solar-energy-1.jpeg")`,
           }}
         ></div>
         <div className="container-fluid">
@@ -20,26 +20,41 @@ const ServiceAbout = () => {
               <div className="tp-ab-text pt-130 pl-150 p-relative">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-30">
-                    we increase your business
+                    Solar Energy is our business
                   </span>
                   <h2 className="tp-section-title text-white">
-                    Enhance your productivity with our expert advice
+                    We design a mobile energy source for every environment
                   </h2>
                   <p className="mb-30">
-                    tellus rutrum tellus pellentesque eu. Sagittis purus sit
-                    amet volutpat. Sed ullamcorper tellus rutrum tellus
-                    pellentesque eu. Sagittis purus sit amet volutpat. Sed
-                    ullamcorper
+                    <ul>
+                    <li>
+                        <span>
+                          <i className="fal fa-check"></i>
+                        </span>
+                        Our product can be carried anywhere
+                      </li>
+                    <li>
+                        <span>
+                          <i className="fal fa-check"></i>
+                        </span>
+                        Opening the panels is used
+                      </li>
+                    <li>
+                        <span>
+                          <i className="fal fa-check"></i>
+                        </span>
+                        Battery and other equipment rain, against external factors such as wind must be protected
+                      </li>
+                    <li>
+                        <span>
+                          <i className="fal fa-check"></i>
+                        </span>
+                        Our “Mobile Product” is tested and proved its success
+                      </li>
+                    </ul>
                   </p>
-                  <p>
-                    tellus rutrum tellus pellentesque eu. Sagittis purus sit
-                    amet volutpat. Sed ullamcorper tellus rutrum tellus
-                    pellentesque eu. Sagittis purus sit amet volutpat. Sed
-                    ullamcorper
-                  </p>
-
                   <div className="mt-50 mb-130">
-                    <Link to="/service" className="tp-btn-white">
+                    <Link to="#" className="tp-btn-white">
                       View More
                       <span>
                         <svg
@@ -89,11 +104,11 @@ const ServiceAbout = () => {
       <VideoPopup
         isVideoOpen={isVideoOpen}
         setIsVideoOpen={setIsVideoOpen}
-        videoId={"EW4ZYb3mCZk"}
+        videoId={"EWV4e453y8Y"}
       />
       {/* video modal end */}
     </>
   );
 };
 
-export default ServiceAbout;
+export default OurProduct;
