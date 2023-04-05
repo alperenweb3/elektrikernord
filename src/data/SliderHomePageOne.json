@@ -6,7 +6,7 @@
             "subTitle1": "Solar Energy",
             "subTitle2": "for the world",
             "btnText": "Get in touch",
-            "bgImg": "/assets/img/bg/hero-bg-1.2.jpg"
+            "bgImg": "/assets/img/bg/solar-energy-1.jpeg"
 
         },
         {
@@ -15,7 +15,7 @@
             "subTitle1": "Solar Energy",
             "subTitle2": "for the world",
             "btnText": "Get in touch",
-            "bgImg": "/assets/img/bg/hero-bg.jpg"
+            "bgImg": "/assets/img/bg/solar-energy-2.jpeg"
 
         },
         {
@@ -24,7 +24,7 @@
             "subTitle1": "Solar Energy",
             "subTitle2": "for the world",
             "btnText": "Get in touch",
-            "bgImg": "/assets/img/bg/hero-bg-1.jpg"
+            "bgImg": "/assets/img/bg/solar-energy-3.jpeg"
 
         }
     ]
