@@ -33,7 +33,7 @@ const HomeSlider = () => {
                     className="tp-single-slider tp-slider-height p-relative"
                     style={{ backgroundImage: `url(${item.bgImg})` }}
                   >
-                    <div className="tp-slider-text black-bg d-inline-block">
+                    <div className="tp-slider-text black-bg-80 d-inline-block">
                       <span className="mb-15 d-inline-block">{item.title}</span>
                       <h3 className="tp-slider-title">
                         {item.subTitle1} <br />
