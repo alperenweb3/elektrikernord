@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "img": "/assets/img/team/team-1.jpg",
+      "img": "/assets/img/team/Gokhan_Ari.jpg",
       "name": "Gökhan ARI",
       "title": "Design & Management",
       "social_links": [
@@ -39,7 +39,7 @@
     },
     {
       "id": 2,
-      "img": "assets/img/team/team-2.jpg",
+      "img": "assets/img/team/Ali_Unluirmak.jpg",
       "name": "Ali ÜNLÜIRMAK",
       "title": "Electr. Electronics Eng.",
       "social_links": [
@@ -77,7 +77,7 @@
     },
     {
       "id": 3,
-      "img": "assets/img/team/team-3.jpg",
+      "img": "assets/img/team/Levent_Ocak.jpg",
       "name": "Levent OCAK",
       "title": "Development",
       "social_links": [

@@ -12,10 +12,10 @@ const Team = () => {
             <div className="col-12">
               <div className="tp-section-wrapper text-center">
                 <span className="tp-section-subtitle mb-30">
-                  we increase your business
+                  we transform solar energy
                 </span>
                 <h2 className="tp-section-title">
-                  All the people behind the <br /> latest project{" "}
+                  All the people behind the <br /> latest projects{" "}
                 </h2>
               </div>
             </div>
@@ -25,7 +25,7 @@ const Team = () => {
               <div key={i} className="col-xl-4 col-md-6">
                 <div className="tp-team pb-30 pt-25">
                   <div className="tp-team__thumb">
-                    <img src={team.img} alt="" />
+                    <img src={team.img} alt=""/>
                   </div>
                   <div className="tp-team__info pt-25">
                     <h3 className="tp-team-name">

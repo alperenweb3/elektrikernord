@@ -11,17 +11,17 @@ const RecentWork = () => {
           <div className="row pb-30">
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-1.jpg" alt="" />
+                <img src="/assets/img/service/recent-1.jpg" alt="" />
               </div>
             </div>
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-2.jpg" alt="" />
+                <img src="/assets/img/service/recent-2.jpg" alt="" />
               </div>
             </div>
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-2.jpg" alt="" />
+                <img src="/assets/img/service/recent-3.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -54,34 +54,34 @@ const RecentWork = () => {
           <div className="row pb-30 pt-30">
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-1.jpg" alt="" />
+                <img src="/assets/img/service/recent-4.jpg" alt="" />
               </div>
             </div>
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-2.jpg" alt="" />
+                <img src="/assets/img/service/recent-5.jpg" alt="" />
               </div>
             </div>
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-2.jpg" alt="" />
+                <img src="/assets/img/service/recent-6.jpg" alt="" />
               </div>
             </div>
           </div>
           <div className="row pb-30">
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-1.jpg" alt="" />
+                <img src="/assets/img/service/recent-7.jpg" alt="" />
               </div>
             </div>
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-2.jpg" alt="" />
+                <img src="/assets/img/service/recent-8.jpg" alt="" />
               </div>
             </div>
             <div className="col-lg-4 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/service/service-blog-2.jpg" alt="" />
+                <img src="/assets/img/service/recent-9.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -92,7 +92,7 @@ const RecentWork = () => {
       <VideoPopup
         isVideoOpen={isVideoOpen}
         setIsVideoOpen={setIsVideoOpen}
-        videoId={"EW4ZYb3mCZk"}
+        videoId={"RCDgouOHKBs"}
       />
       {/* video modal end */}
     </>
