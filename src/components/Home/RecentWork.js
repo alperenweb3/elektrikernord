@@ -5,7 +5,7 @@ const RecentWork = () => {
   const [isVideoOpen,setIsVideoOpen] = useState(false);
   return (
     <>
-      <div className="tp-service-page pt-140 pb-70">
+      <div id="recent-work" className="tp-service-page pt-140 pb-70">
         <div className="container">
         <h3 className="tp-sv__title">Recent Work</h3>
           <div className="row pb-30">

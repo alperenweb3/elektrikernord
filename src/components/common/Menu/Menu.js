@@ -5,7 +5,6 @@ import Menus from "./Menus";
 import OffCanvas from "./OffCanvas";
 
 const Menu = ({ header_style_2 }) => {
-  const [isToggleSearch, setToggleSearch] = useState(false);
   const [isOffCanvas, setOffCanvas] = useState(false);
   const { sticky } = useSticky();
   return (
@@ -29,9 +28,9 @@ const Menu = ({ header_style_2 }) => {
                         src={
                           header_style_2
                             ? "assets/img/logo/logo-black.png"
-                            : "assets/img/logo/logo.png"
+                            : "assets/img/logo/logo_new.png"
                         }
-                        alt="logo"
+                        alt="logo" width="100"
                       />
                     </Link>
                   </div>
@@ -49,40 +48,6 @@ const Menu = ({ header_style_2 }) => {
                 </div>
                 <div className="col-lg-3 col-md-4 col-5">
                   <div className="header__main_right d-flex justify-content-end align-items-center">
-                    <div className="tp-header-search-icons normal-search mr-80 p-relative ">
-                      <div
-                        className={`search-btn-wrap ${
-                          isToggleSearch ? "header_search-open" : ""
-                        }`}
-                      >
-                        <button
-                          onClick={() => setToggleSearch(!isToggleSearch)}
-                          className="button-search-toggle position-relative"
-                        >
-                          <i
-                            className={`header_search-button ${
-                              header_style_2 ? "" : "text-white"
-                            } far fa-search`}
-                          ></i>
-                          <i
-                            className={`header_search-close ${
-                              header_style_2 ? "" : "text-white"
-                            } far fa-times`}
-                          ></i>
-                        </button>
-                        <div className="tp-search-form p-relative">
-                          <form action="#">
-                            <input type="text" placeholder="Search ..." />
-                            <button
-                              type="submit"
-                              className="search-submit-icon"
-                            >
-                              <i className="far fa-search"></i>
-                            </button>
-                          </form>
-                        </div>
-                      </div>
-                    </div>
                     <div
                       className={`tp-bar-icon ${
                         header_style_2 ? "tp-bar-icon-dark" : ""

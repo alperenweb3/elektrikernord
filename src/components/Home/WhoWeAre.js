@@ -5,7 +5,7 @@ const WhoWeAre = () => {
   return (
     <>
       {/* <!-- tp-about-3 start  --> */}
-      <div className="tp-ab-section pt-160 pb-160">
+      <div id="who-we-are" className="tp-ab-section pt-160 pb-160">
         <div className="container">
           <div className="row align-items-center tp-flex-reverse">
             <div className="col-lg-4">

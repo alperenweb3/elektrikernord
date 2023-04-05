@@ -1,55 +1,31 @@
 const menu_data = [
+  
   {
     id: 1,
-    hasDropdown: true,
     title: 'Home',
     link: '/',
-    submenus: [
-      { title: 'Home Style 1', link: '/' },
-      { title: 'Home Style 2', link: '/home-2' },
-      { title: 'Home Style 3', link: '/home-3' },
-    ]
   },
   {
     id: 2,
-    title: 'About',
-    link: '/about',
+    title: 'Who We Are',
+    link: '#who-we-are',
   },
   {
     id: 3,
-    hasDropdown: true,
-    title: 'Pages',
-    link: '/about',
-    submenus: [
-      { title: 'Team', link: '/team' },
-      { title: 'Team Details', link: '/team-details' },
-      { title: 'Service', link: '/service' },
-      { title: 'Service Details', link: '/service-details' },
-      { title: 'Price', link: '/price' },
-      { title: 'Contact', link: '/contact' },
-      { title: 'Faq', link: '/faq' },
-    ]
+    title: 'Our Product',
+    link: '#our-product',
   },
   {
     id: 4,
-    hasDropdown: true,
-    title: 'Portfolio',
-    link: '/portfolio',
-    submenus: [
-      { title: 'Portfolio', link: '/portfolio' },
-      { title: 'Portfolio Details', link: '/portfolio-details' },
-    ]
+    title: 'Recent Work',
+    link: '#recent-work',
   },
   {
     id: 5,
-    hasDropdown: true,
-    title: 'Blog',
-    link: '/blog',
-    submenus: [
-      { title: 'Blog', link: '/blog' },
-      { title: 'Blog Details', link: '/blog-details' },
-    ]
+    title: 'Our Team',
+    link: '#our-team',
   },
+  
 ]
 
 export default menu_data;

@@ -6,7 +6,7 @@ const OurProduct = () => {
   const [isVideoOpen,setIsVideoOpen] = useState(false);
   return (
     <>
-      <div className="tp-about-section black-bg p-relative">
+      <div id="our-product" className="tp-about-section black-bg p-relative">
         <div
           className="tp-ab-bg d-none d-lg-block"
           //   data-background="assets/img/service/service-bg.jpg"

@@ -21,20 +21,19 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
         </div>
         <div className="offcanvas-content">
           <div className="offcanvas-subtitle">
-            <span>ELEVATE YOUR BUSINESS WITH</span>
+            <span>Solar Energy For The World</span>
           </div>
           <div className="offcanvas-logo pb-30 pt-30">
-            <img src="assets/img/logo/logo.png" alt="" />
+            <img src="assets/img/logo/logo_new.png" alt="" width="100"/>
           </div>
           <div className="offcanva-details">
             <p>
-              Limitless customization options & Elementor compatibility let
-              anyone create a beautiful website with Valiance.
+            We design a mobile energy source for every environment that requires electricity.
             </p>
           </div>
           <div className="offcanva-btn">
             <Link
-              to="/contact"
+              to="mailto:elektrikerari@gmail.com"
               className="tp-slider-btn mt-40 d-inline-block"
               tabIndex="-1"
             >
@@ -79,13 +78,13 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
           <h3 className="tp-footer__widget-title">Quick Links</h3>
           <ul>
             <li>
-              <Link to="#">27 Division St, New York, NY 10002, USA</Link>
+              <Link to="#">Fuhlsbüttel / Hamburg</Link>
             </li>
             <li>
-              <Link to="tel:+88015569569365">(+880)52462545632</Link>
+              <Link to="tel:+491792942816">(+49)1792942816</Link>
             </li>
             <li>
-              <Link to="mailto:support@example.com">support@example.com</Link>
+              <Link to="mailto:support@example.com">elektrikerari@gmail.com</Link>
             </li>
             <li>
               <span> Office Hours: 9AM - 4PM</span>

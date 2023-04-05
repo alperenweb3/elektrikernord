@@ -6,7 +6,7 @@ const Team = () => {
   return (
     <>
       {/* <!-- team area start  --> */}
-      <div className="tp-team-area pt-135 pb-110 grey-bg-4">
+      <div id="our-team" className="tp-team-area pt-135 pb-110 grey-bg-4">
         <div className="container">
           <div className="row">
             <div className="col-12">
