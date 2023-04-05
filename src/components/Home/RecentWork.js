@@ -33,7 +33,7 @@ const RecentWork = () => {
                     className="tp_sv__video-bg"
                     // data-background="/assets/img/service/service-blog-bg.jpg"
                     style={{
-                      backgroundImage: `url("/assets/img/service/service-blog-bg.jpg")`,
+                      backgroundImage: `url("/assets/img/bg/solar-energy-1.jpeg")`,
                     }}
                   >
                     <div className="pt-180 pb-180 text-center p-relative">

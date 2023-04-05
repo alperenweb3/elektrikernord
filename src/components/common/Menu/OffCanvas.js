@@ -36,6 +36,7 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
               to="mailto:elektrikerari@gmail.com"
               className="tp-slider-btn mt-40 d-inline-block"
               tabIndex="-1"
+              target="_blank"
             >
               <span>
                 <svg
