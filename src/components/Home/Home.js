@@ -1,6 +1,8 @@
 import React from "react";
 import Menu from "../common/Menu/Menu";
 import SliderHome from "./SliderHome";
+import OurProduct from "./ServiceAbout"
+import WhoWeAre from "./WhoWeAre";
 
 
 const Home = () => {
@@ -8,6 +10,8 @@ const Home = () => {
     <>
       <Menu />
       <SliderHome />
+      <WhoWeAre />
+      <OurProduct />
     </>
   );
 };
