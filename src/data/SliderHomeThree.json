@@ -3,23 +3,23 @@
         {
             "id": 1,
             "img": "/assets/img/bg/hero-bg-3.jpg",
-            "description": "Step in the right description...",
-            "title1": "World class team",
-            "title2": " build for you"
+            "description": "We Transform Solar Energy into a Mobil Electricity Source",
+            "title1": "Solar Energy",
+            "title2": " for the world"
         },
         {
             "id": 2,
             "img": "/assets/img/bg/hero-bg-3.1.jpg",
-            "description": "Step in the right description...",
-            "title1": "World class team",
-            "title2": " build for you"
+            "description": "We Transform Solar Energy into a Mobil Electricity Source",
+            "title1": "Solar Energy",
+            "title2": " for the world"
         },
         {
             "id": 3,
             "img": "/assets/img/bg/hero-bg-3.2.jpg",
-            "description": "Step in the right description...",
-            "title1": "World class team",
-            "title2": " build for you"
+            "description": "We Transform Solar Energy into a Mobil Electricity Source",
+            "title1": "Solar Energy",
+            "title2": " for the world"
         }
 
     ]

@@ -1,10 +1,13 @@
 import React from "react";
 import Menu from "../common/Menu/Menu";
+import SliderHome from "./SliderHome";
+
 
 const Home = () => {
   return (
     <>
-      <Menu header_style_2={true} />
+      <Menu />
+      <SliderHome />
     </>
   );
 };
