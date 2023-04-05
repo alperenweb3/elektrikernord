@@ -31,25 +31,25 @@ const OurProduct = () => {
                         <span>
                           <i className="fal fa-check"></i>
                         </span>
-                        Our product can be carried anywhere
+                        Our product is portable and can be taken anywhere
                       </li>
                     <li>
                         <span>
                           <i className="fal fa-check"></i>
                         </span>
-                        Opening panels is used
+                        The opening panels are used to access the equipment
                       </li>
                     <li>
                         <span>
                           <i className="fal fa-check"></i>
                         </span>
-                        Battery and other equipment rain, against external factors such as wind must be protected
+                        The battery and other equipment is protected to external factors such as rain and wind.
                       </li>
                     <li>
                         <span>
                           <i className="fal fa-check"></i>
                         </span>
-                        Our “Mobile Product” is tested and proved its success
+                        Our "Mobile Product" has been tested and proven successful
                       </li>
                     </ul>
                   </p>

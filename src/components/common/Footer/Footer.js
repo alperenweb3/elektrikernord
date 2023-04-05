@@ -34,7 +34,7 @@ const Footer = () => {
                       <ul>
                         <li><a href="#">Fuhlsbüttel / Hamburg </a></li>
                         <li><a href="tel:+491792942816">(+49)1792942816</a></li>
-                        <li><a href="mailto:elektrikerari@gmail.com">elektrikerari@gmail.com</a></li>
+                        <li><a href="mailto:elektrikerari@gmail.com" target="_blank">elektrikerari@gmail.com</a></li>
                         <li><span> Office Hours: 9AM - 4PM</span></li>
                         <li><span> Friday - Wekend Day</span></li>
                       </ul>

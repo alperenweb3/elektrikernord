@@ -85,7 +85,7 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
               <Link to="tel:+491792942816">(+49)1792942816</Link>
             </li>
             <li>
-              <Link to="mailto:support@example.com">elektrikerari@gmail.com</Link>
+              <Link to="mailto:elektrikerari@gmail.com" target="_blank">elektrikerari@gmail.com</Link>
             </li>
             <li>
               <span> Office Hours: 9AM - 4PM</span>
