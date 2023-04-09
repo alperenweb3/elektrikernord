@@ -29,7 +29,7 @@ const Team = () => {
                   </div>
                   <div className="tp-team__info pt-25">
                     <h3 className="tp-team-name">
-                      <Link to="/team-details">{team.name}</Link>
+                      <Link to="#">{team.name}</Link>
                     </h3>
                     <p>{team.title}</p>
                   </div>
